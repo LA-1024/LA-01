@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9a92e62-99b0-4b9e-a879-6934ed1b1a7f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pickTreasure$Main.ic" NAME="Main Coverage Results" MODIFIED="1582118272880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>UI.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/pickTreasure$Interface.ic" NAME="Interface Coverage Results" MODIFIED="1581779024462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Game.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Control/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1104">
+              <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UI/LoginPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/UI_beautify.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/MenuPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Control/LoginControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/GamePanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/RankingListPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Control/RankingControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/RegisterPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-504">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/UI_beautify.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Interface.java" />
+        <option value="$PROJECT_DIR$/src/StartGame.java" />
+        <option value="$PROJECT_DIR$/src/Game/StartGame.java" />
+        <option value="$PROJECT_DIR$/src/Game/Interface.java" />
+        <option value="$PROJECT_DIR$/src/Game/ProjectInterface.java" />
+        <option value="$PROJECT_DIR$/src/Game/silver.java" />
+        <option value="$PROJECT_DIR$/src/Game/AbstractProject.java" />
+        <option value="$PROJECT_DIR$/src/Game/Project.java" />
+        <option value="$PROJECT_DIR$/src/Game/ItemInterface.java" />
+        <option value="$PROJECT_DIR$/src/Game/Bomb.java" />
+        <option value="$PROJECT_DIR$/src/Game/Silver.java" />
+        <option value="$PROJECT_DIR$/src/Game/Gold.java" />
+        <option value="$PROJECT_DIR$/src/Game/menuPanel.java" />
+        <option value="$PROJECT_DIR$/src/Game/AbstractItem.java" />
+        <option value="$PROJECT_DIR$/src/Game/gamePanel.java" />
+        <option value="$PROJECT_DIR$/src/Game/Login.java" />
+        <option value="$PROJECT_DIR$/rankingList.txt" />
+        <option value="$PROJECT_DIR$/src/Game/RankingData.java" />
+        <option value="$PROJECT_DIR$/src/Game/Main.java" />
+        <option value="$PROJECT_DIR$/src/Game/Item.java" />
+        <option value="$PROJECT_DIR$/src/Game/RegisterPanel.java" />
+        <option value="$PROJECT_DIR$/src/Game/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/Game/UI_beautify.java" />
+        <option value="$PROJECT_DIR$/src/Game/MenuPanel.java" />
+        <option value="$PROJECT_DIR$/src/Game/LoginPanel.java" />
+        <option value="$PROJECT_DIR$/src/Game/RankingList.java" />
+        <option value="$PROJECT_DIR$/src/Control/Item.java" />
+        <option value="$PROJECT_DIR$/src/Control/AbstractItem.java" />
+        <option value="$PROJECT_DIR$/src/UI/MenuPanel.java" />
+        <option value="$PROJECT_DIR$/src/Control/GameControl.java" />
+        <option value="$PROJECT_DIR$/src/UI/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/Control/RankingControl.java" />
+        <option value="$PROJECT_DIR$/src/UI/RankingListPanel.java" />
+        <option value="$PROJECT_DIR$/src/Control/LoginControl.java" />
+        <option value="$PROJECT_DIR$/src/Control/Main.java" />
+        <option value="$PROJECT_DIR$/src/UI/RegisterPanel.java" />
+        <option value="$PROJECT_DIR$/src/UI/LoginPanel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1347" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pickTreasure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pickTreasure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pickTreasure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pickTreasure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pickTreasure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pickTreasure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pickTreasure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pickTreasure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pickTreasure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pickTreasure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582181573256" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dear Ming\Desktop\pickTreasure\src\file" />
+      <recent name="C:\Users\Dear Ming\Desktop\pickTreasure\src\image" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Game" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dear Ming\Desktop\pickTreasure\src\file" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GamePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.GamePanel" />
+      <module name="pickTreasure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Control.Main" />
+      <module name="pickTreasure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GamePanel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GamePanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9a92e62-99b0-4b9e-a879-6934ed1b1a7f" name="Default Changelist" comment="" />
+      <created>1581743748968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581743748968</updated>
+      <workItem from="1581743751560" duration="1352000" />
+      <workItem from="1581746997062" duration="27806000" />
+      <workItem from="1581815349859" duration="1864000" />
+      <workItem from="1581820316737" duration="6192000" />
+      <workItem from="1581835761229" duration="20620000" />
+      <workItem from="1581902002040" duration="41813000" />
+      <workItem from="1581989410592" duration="24319000" />
+      <workItem from="1582025440749" duration="534000" />
+      <workItem from="1582026425033" duration="1715000" />
+      <workItem from="1582028713748" duration="5572000" />
+      <workItem from="1582038622773" duration="1623000" />
+      <workItem from="1582073873011" duration="23212000" />
+      <workItem from="1582118533069" duration="5045000" />
+      <workItem from="1582163315664" duration="3034000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="164701000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986226" visible="true" weight="0.2465306" />
+      <window_info id="Structure" order="1" sideWeight="0.5013774" side_tool="true" weight="0.20489796" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32902032" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959183" weight="0.41219962" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46580407" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32902032" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004082" side_tool="true" weight="0.32902032" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3271719" />
+      <window_info anchor="bottom" id="Sequence" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32979593" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32979593" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Java/jdk1.8.0_231/javafx-src.zip!/javafx/animation/Animation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_231/javafx-src.zip!/javafx/animation/AnimationAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_231/javafx-src.zip!/javafx/animation/Timeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/java/ShowImage/src/im/ShowImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1368" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/java/ShowImage/src/im/AlertWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LoginExample/src/login/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_231/javafx-src.zip!/javafx/scene/image/ImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8406">
+          <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Bomb.java" />
+    <entry file="file://$PROJECT_DIR$/src/Game/Silver.java" />
+    <entry file="file://$PROJECT_DIR$/src/Game/Gold.java" />
+    <entry file="file://$PROJECT_DIR$/src/image/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_231/javafx-src.zip!/javafx/scene/layout/Background.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="295" column="42" lean-forward="true" selection-start-line="295" selection-start-column="42" selection-end-line="295" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../gitLab/4/BrushProject/src/com/nchu/wiper/Gaussian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144" />
+      </provider>
+    </entry>
+    <entry file="file://D:/QQ file/172012班java课设/17201229-章子龙/train.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/QQ file/172012班java课设/17201220-王皓/1.png.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/QQ file/172012班java课设/17201220-王皓/2.png.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_231/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rankingList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control/ItemInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control/RankingData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Game.Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Game.Main</OriginalElement>
+          <nodes>
+            <node x="" y="">javafx.application.Application</node>
+            <node x="" y="">Game.Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="61.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Game">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Game</OriginalElement>
+          <nodes>
+            <node x="" y="">Game.LoginPanel</node>
+            <node x="" y="">Game.RegisterPanel</node>
+            <node x="" y="">Game.UI_beautify</node>
+            <node x="" y="">Game.ItemInterface</node>
+            <node x="" y="">Game.Item</node>
+            <node x="" y="">Game.MenuPanel</node>
+            <node x="" y="">Game.AbstractItem</node>
+            <node x="" y="">Game.RankingList</node>
+            <node x="" y="">Game.RankingData</node>
+            <node x="" y="">Game.GamePanel</node>
+            <node x="" y="">Game.Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="248.0" y="208.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/BaiduNetdiskDownload/02-Java语言进阶/day06_线程、同步/code/06_Thread/src/com/itheima/demo01/getName/Demo01GetThreadName.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control/AbstractItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control/GameControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file/account.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file/rankingList.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_231/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">image</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">Control</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">file</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">UI</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8394833948339483" x="261.0" y="251.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Control">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Control</OriginalElement>
+          <nodes>
+            <node x="263.69505952380973" y="490.0">Control.Main</node>
+            <node x="635.6075595238096" y="0.0">Control.ItemInterface</node>
+            <node x="242.1372420634922" y="172.0">Control.UI_beautify</node>
+            <node x="453.19505952380973" y="172.0">Control.RankingData</node>
+            <node x="0.0" y="172.0">Control.LoginControl</node>
+            <node x="472.32005952380973" y="258.0">Control.RankingControl</node>
+            <node x="241.10535714285723" y="354.0">Control.MenuPanel</node>
+            <node x="594.1053571428572" y="354.0">Control.GamePanel</node>
+            <node x="398.1053571428572" y="354.0">Control.RankingListPanel</node>
+            <node x="677.2553571428572" y="172.0">Control.Item</node>
+            <node x="60.31964285714287" y="354.0">Control.RegisterPanel</node>
+            <node x="637.1075595238096" y="86.0">Control.AbstractItem</node>
+            <node x="667.4925992063494" y="258.0">Control.GameControl</node>
+            <node x="95.41668650793667" y="258.0">Control.LoginPanel</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Control.Main" target="Control.GameControl">
+              <point x="44.10714285714283" y="-18.0" />
+              <point x="355.3022023809525" y="470.0" />
+              <point x="776.7129166666668" y="470.0" />
+              <point x="776.7129166666668" y="334.0" />
+              <point x="799.6175992063494" y="334.0" />
+              <point x="56.625" y="18.0" />
+            </edge>
+            <edge source="Control.GamePanel" target="Control.UI_beautify">
+              <point x="-51.75" y="-18.0" />
+              <point x="611.3553571428572" y="324.0" />
+              <point x="415.3678571428573" y="324.0" />
+              <point x="415.3678571428573" y="228.0" />
+              <point x="364.5372420634923" y="228.0" />
+              <point x="54.400000000000034" y="18.0" />
+            </edge>
+            <edge source="Control.RankingListPanel" target="Control.RankingData">
+              <point x="-21.999999999999943" y="-18.0" />
+              <point x="464.1053571428573" y="334.0" />
+              <point x="461.82005952380973" y="334.0" />
+              <point x="461.82005952380973" y="238.0" />
+              <point x="471.57005952380973" y="238.0" />
+              <point x="-55.125" y="18.0" />
+            </edge>
+            <edge source="Control.MenuPanel" target="Control.UI_beautify">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="Control.Main" target="Control.RegisterPanel">
+              <point x="-23.75" y="-18.0" />
+              <point x="287.44505952380973" y="440.0" />
+              <point x="175.06964285714287" y="440.0" />
+              <point x="38.25" y="18.0" />
+            </edge>
+            <edge source="Control.RankingListPanel" target="Control.UI_beautify">
+              <point x="-65.99999999999994" y="-18.0" />
+              <point x="420.1053571428573" y="334.0" />
+              <point x="384.85708333333355" y="334.0" />
+              <point x="384.85708333333355" y="238.0" />
+              <point x="337.3372420634922" y="238.0" />
+              <point x="27.19999999999999" y="18.0" />
+            </edge>
+            <edge source="Control.RankingListPanel" target="Control.RankingControl">
+              <point x="22.000000000000057" y="-18.0" />
+              <point x="508.1053571428573" y="334.0" />
+              <point x="513.5700595238097" y="334.0" />
+              <point x="-41.25" y="18.0" />
+            </edge>
+            <edge source="Control.GamePanel" target="Control.Item">
+              <point x="-17.25" y="-18.0" />
+              <point x="645.8553571428572" y="334.0" />
+              <point x="656.9925992063494" y="334.0" />
+              <point x="656.9925992063494" y="228.0" />
+              <point x="686.3553571428572" y="228.0" />
+              <point x="-36.39999999999998" y="18.0" />
+            </edge>
+            <edge source="Control.Main" target="Control.RankingListPanel">
+              <point x="16.964285714285722" y="-18.0" />
+              <point x="328.1593452380954" y="430.0" />
+              <point x="530.1053571428573" y="430.0" />
+              <point x="44.00000000000006" y="18.0" />
+            </edge>
+            <edge source="Control.RegisterPanel" target="Control.UI_beautify">
+              <point x="61.19999999999999" y="-18.0" />
+              <point x="198.01964285714286" y="334.0" />
+              <point x="253.66107142857163" y="334.0" />
+              <point x="253.66107142857163" y="238.0" />
+              <point x="282.93724206349225" y="238.0" />
+              <point x="-27.19999999999999" y="18.0" />
+            </edge>
+            <edge source="Control.Main" target="Control.MenuPanel">
+              <point x="3.3928571428571104" y="-18.0" />
+              <point x="314.58791666666684" y="410.0" />
+              <point x="343.8553571428572" y="410.0" />
+              <point x="34.25" y="18.0" />
+            </edge>
+            <edge source="Control.Item" target="Control.AbstractItem">
+              <point x="-22.75" y="-18.0" />
+              <point x="700.0053571428572" y="147.0" />
+              <point x="674.1075595238096" y="147.0" />
+              <point x="-37.0" y="18.0" />
+            </edge>
+            <edge source="Control.Main" target="Control.LoginControl">
+              <point x="-37.32142857142861" y="-18.0" />
+              <point x="273.87363095238106" y="460.0" />
+              <point x="34.91964285714289" y="460.0" />
+              <point x="34.91964285714289" y="238.0" />
+              <point x="37.0" y="238.0" />
+              <point x="-37.0" y="18.0" />
+            </edge>
+            <edge source="Control.GameControl" target="Control.Item">
+              <point x="18.875" y="-18.0" />
+              <point x="761.8675992063494" y="238.0" />
+              <point x="740.9553571428572" y="238.0" />
+              <point x="18.200000000000045" y="18.0" />
+            </edge>
+            <edge source="Control.GamePanel" target="Control.GameControl">
+              <point x="51.75" y="-18.0" />
+              <point x="714.8553571428572" y="334.0" />
+              <point x="724.1175992063494" y="334.0" />
+              <point x="-18.875" y="18.0" />
+            </edge>
+            <edge source="Control.LoginPanel" target="Control.LoginControl">
+              <point x="0.0" y="-18.0" />
+              <point x="162.91668650793667" y="238.0" />
+              <point x="135.66666666666669" y="238.0" />
+              <point x="61.666666666666686" y="18.0" />
+            </edge>
+            <edge source="Control.LoginPanel" target="Control.UI_beautify">
+              <point x="45.0" y="-18.0" />
+              <point x="207.91668650793667" y="228.0" />
+              <point x="255.73724206349223" y="228.0" />
+              <point x="-54.39999999999998" y="18.0" />
+            </edge>
+            <edge source="Control.RankingControl" target="Control.RankingData">
+              <point x="0.0" y="-18.0" />
+              <point x="554.8200595238097" y="238.0" />
+              <point x="545.0700595238097" y="238.0" />
+              <point x="18.375" y="18.0" />
+            </edge>
+            <edge source="Control.RegisterPanel" target="Control.LoginControl">
+              <point x="-61.19999999999999" y="-18.0" />
+              <point x="75.61964285714288" y="334.0" />
+              <point x="54.93188492063507" y="334.0" />
+              <point x="54.93188492063507" y="228.0" />
+              <point x="61.666666666666686" y="228.0" />
+              <point x="-12.333333333333314" y="18.0" />
+            </edge>
+            <edge source="Control.RegisterPanel" target="Control.LoginPanel">
+              <point x="0.0" y="-18.0" />
+              <point x="136.81964285714287" y="334.0" />
+              <point x="112.29168650793667" y="334.0" />
+              <point x="-50.625" y="18.0" />
+            </edge>
+            <edge source="Control.Main" target="Control.GamePanel">
+              <point x="30.535714285714278" y="-18.0" />
+              <point x="341.73077380952395" y="450.0" />
+              <point x="697.6053571428572" y="450.0" />
+              <point x="34.5" y="18.0" />
+            </edge>
+            <edge source="Control.Main" target="Control.LoginPanel">
+              <point x="-10.178571428571445" y="-18.0" />
+              <point x="301.0164880952383" y="420.0" />
+              <point x="230.6053571428572" y="420.0" />
+              <point x="230.6053571428572" y="314.0" />
+              <point x="213.54168650793667" y="314.0" />
+              <point x="50.625" y="18.0" />
+            </edge>
+            <edge source="Control.AbstractItem" target="Control.ItemInterface">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8333333333333334" x="410.0" y="273.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control/RankingControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/MenuPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/RankingListPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/RegisterPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control/LoginControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/UI_beautify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/LoginPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pickTreasure</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
